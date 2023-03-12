@@ -13,7 +13,7 @@ body {
   font-size: 100%;
 }
 
-.wrapper {
+.wrappers {
   margin: 0 auto;
   width: 60%;
   padding-bottom: 40px;
@@ -65,7 +65,7 @@ a:hover {
 }
 
 @media only screen and (max-width: 1042px) {
-  .wrapper {
+  .wrappers {
     width: 80%;
   }
 }
